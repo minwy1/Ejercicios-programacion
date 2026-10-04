@@ -1,0 +1,17 @@
+## Ejercicio 5: Declaración y uso de constantes
+
+Crea un programa que use constantes para almacenar información que no debe cambiar (como el valor de PI o el nombre de una aplicación) y variables para información que puede cambiar. Muestra todos los valores.
+
+Ejemplo de salida por consola:
+
+```
+Aplicación: MiApp
+Versión: 1.0.0
+Valor de PI: 3.14159
+Usuario actual: Laura
+Nivel: 1
+Puntuación: 0
+Usuario actualizado: Miguel
+Nivel actualizado: 2
+Puntuación actualizada: 150
+```
