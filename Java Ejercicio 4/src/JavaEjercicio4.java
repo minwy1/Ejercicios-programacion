@@ -14,8 +14,12 @@ public class JavaEjercicio4 {
         System.out.println("Cuantos bocadillos quieres: ");
         int numero_bocadillos = teclado.nextInt();
 
-        System.out.println("Coste de las bebidas: " + (PRECIO_BEBIDAS * numero_bebidas));
-        System.out.println("Coste de los bocadillos: " + (PRECIO_BOCADILLOS * numero_bocadillos));
-        System.out.println("Coste consumicion: " + ((PRECIO_BEBIDAS * numero_bebidas) + (PRECIO_BOCADILLOS * numero_bocadillos)));
+        double coste_bebidas = PRECIO_BEBIDAS * numero_bebidas;
+        double coste_bocadillos = PRECIO_BOCADILLOS * numero_bocadillos;
+        double coste_total = coste_bebidas + coste_bocadillos;
+
+        System.out.println("Coste de las bebidas: " +coste_bebidas);
+        System.out.println("Coste de los bocadillos: " + coste_bocadillos);
+        System.out.println("Coste consumicion: " + coste_total);
     }
 }
