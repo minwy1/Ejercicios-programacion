@@ -9,7 +9,6 @@ public class JavaEjercicio1 {
         final String LOCALIDAD = ("Madrid ");
         final String PAIS = ("España ");
 
-        System.out.println("ENTRADA/SALIDA");
         System.out.println(NOMBRE);
         System.out.print(DIRECCION);
         System.out.print(NUMERO);

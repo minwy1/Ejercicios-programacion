@@ -1,0 +1,8 @@
+Programa que lee el nombre completo y la edad de una persona, y muestra los datos leídos. (leerNombreEdad)
+
+ENTRADA/SALIDA
+ESCRIBE TU NOMBRE COMPLETO: Ana Garrido Alonso
+ESCRIBE TU EDAD: 23
+Te llamas Ana Garrido Alonso
+Tienes 23 años
+Pulsa enter para continuar …
