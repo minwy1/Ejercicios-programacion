@@ -1,0 +1,15 @@
+### Ejercicio 3 Operaciones variables
+
+Hágase un programa que lea dos variables enteras y obtenga las siguientes operaciones:
+a) Suma
+b) Resta
+c) Multiplicación
+d) División entera
+e) Resto
+f) División real
+g) Resto real
+(Operaciones)
+
+ENTRADA/SALIDA
+ENTERO: 24
+ENTERO: 7
