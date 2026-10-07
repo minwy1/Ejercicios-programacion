@@ -1,0 +1,19 @@
+### Ejercicio 8. Conversión temperaturas
+
+Hágase una aplicación que permita realizar conversiones de temperaturas entre grados
+centígrados, farenheit y kelvin (los resultados se muestran redondeados a dos
+decimales). (Temperaturas)
+
+*ENTRADA/SALIDA*
+
+Grados centigrados: **15,70**
+
+Farenheit: 60,26 Kelvin: 288,85
+
+Grados Farenheit: **45,32**
+
+Centigrados: 7,4 Kelvin: 280,55
+
+Grados Kelvin: **345,23**
+
+Centigrados: 72,08 Farenheit: 161,74
